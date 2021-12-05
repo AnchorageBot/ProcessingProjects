@@ -30,7 +30,7 @@ def setup():
     
     # scaled screen size (display window); width & height are program keywords
     x_scale = width/x_range   # ie 600/(10 - (-10)) = 30
-    y_scale = height/y_range
+    y_scale = -height/y_range
     
 def draw():
     """infinite looping function to draw the idea"""
@@ -48,3 +48,12 @@ def draw():
     for i in range(x_min, x_max +1):
         line(i*x_scale, y_min*y_scale, i*x_scale, y_max*y_scale)
         line(x_min*x_scale, i*y_scale, x_max*x_scale, i*y_scale)
+    
+    # graph x and y axis
+    stroke(0)
+    line(0, y_min*y_scale, 0, y_max*y_scale)
+    line(x_min*x_scale, 0, x_max*x_scale, 0)
+        
+    # test circle
+    fill(0)
+    ellipse(3*x_scale, 6*y_scale,10,10)
