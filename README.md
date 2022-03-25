@@ -10,5 +10,5 @@ This github repository holds processing code from processing projects
 
 [Math Adventures with Python](https://nostarch.com/mathadventures)
 
-
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
