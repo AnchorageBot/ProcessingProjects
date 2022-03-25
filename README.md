@@ -1,7 +1,14 @@
-# Processing Projects
+## Processing Projects
 
-Processing with Python Home Page
-https://py.processing.org
+This github repository holds processing code from processing projects
 
-Math Adventures with Python
-https://nostarch.com/mathadventures
+## Integrated Development Environment
+
+[Processing with Python Home Page](https://py.processing.org)
+
+## How-to Books
+
+[Math Adventures with Python](https://nostarch.com/mathadventures)
+
+
+
