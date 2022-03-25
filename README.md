@@ -6,7 +6,9 @@ This github repository holds processing code from processing projects
 
 [Processing with Python Home Page](https://py.processing.org)
 
-## How-to Books
+## How-to Books and Tutorials
+
+[Processing Tutorials](https://py.processing.org/tutorials/)
 
 [Math Adventures with Python](https://nostarch.com/mathadventures)
 
