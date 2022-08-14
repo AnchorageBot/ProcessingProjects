@@ -1,6 +1,6 @@
 ## Processing Projects
 
-This github repository holds processing code from various processing projects
+This github repository holds scripts from various processing projects
 
 ## Integrated Development Environment
 
